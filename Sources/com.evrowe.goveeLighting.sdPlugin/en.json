@@ -1,10 +1,10 @@
 {
-  "Description": "Use this to create your own plugin", 
+  "Description": "A Stream Deck plugin that allows control of your Govee Lighting products via the Govee API", 
   "Name": "Govee Lighting", 
-  "Category": "Templates", 
+  "Category": "Lighting", 
   "com.evrowe.govee-lighting.action": {
     "Name": "Action", 
-    "Tooltip": "This is the only action in this plugin"
+    "Tooltip": "Control your Govee Lights"
   },
   "Localization": {
     "More info": "More info",
