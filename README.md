@@ -1,5 +1,7 @@
 
-# THIS PLUGIN IS IN DEVELOPMENT AND NOT YET RELEASED
+# ⚠️ THIS PLUGIN IS IN DEVELOPMENT AND NOT YET RELEASED ⚠️
+
+**The current version is not functional. Please Watch or Star the repo to stay up to date on when a functional release is available.**
 
 # Govee Lighting Stream Deck Plugin
 
